@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdawt/gee/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lambdawt/gee/main?urlpath=lab)
 # gee
 Python Google Eearth Engine Projects
 
