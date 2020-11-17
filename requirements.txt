@@ -1,5 +1,5 @@
 ee
 geemap
 folium
-numpy==1.19.0
+numpy==1.16.0
 tensorflow
